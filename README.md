@@ -1,2 +1,2 @@
-# DiabetesPredicationApp
+# DiabetesPredictionApp
 hahahahahahaa 
